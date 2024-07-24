@@ -1,1 +1,1 @@
-echo "devops new version"
+echo "welcome to git"
